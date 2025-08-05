@@ -1,3 +1,4 @@
+// Package onnx provides structures and methods for handling ONNX model runtime configurations.
 package onnx
 
 // OnnxRuntime holds the model path and library paths for neural inference.
